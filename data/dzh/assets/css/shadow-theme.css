@@ -1,0 +1,33 @@
+
+
+
+/* Shadow theme */
+
+
+[data-bs-theme="shadow-theme"] .sidebar-wrapper {
+    box-shadow: 0 0.5rem 1rem rgba(var(--bs-body-color-rgb), .15)!important;
+}
+
+[data-bs-theme="shadow-theme"] .top-header .navbar {
+    box-shadow: 0 0.125rem 0.25rem rgba(var(--bs-body-color-rgb), .075)!important;
+}
+
+
+[data-bs-theme="shadow-theme"] .card {
+    box-shadow: 0 0.25rem 0.30rem rgba(var(--bs-body-color-rgb), .15)!important;
+}
+
+
+
+
+
+[data-bs-theme="shadow-theme"] .top-header .navbar .top-right-menu .nav-item .nav-link,
+[data-bs-theme="shadow-theme"] .top-header .navbar .btn-toggle-menu {
+    box-shadow: 0 0.125rem 0.25rem rgba(var(--bs-body-color-rgb), .075)!important;
+    
+}
+
+[data-bs-theme="shadow-theme"] .search-bar input[disabled] {
+    box-shadow: 0 0.125rem 0.25rem rgba(var(--bs-body-color-rgb), .075)!important;
+    
+}

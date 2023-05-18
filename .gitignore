@@ -1,0 +1,5 @@
+.vscode
+.github
+*/uploads/*
+data/*.db
+config.inc.php
