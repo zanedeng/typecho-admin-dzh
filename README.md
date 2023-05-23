@@ -9,7 +9,21 @@
 ---
 这是一套 Typecho 后台管理界面的项目，它使用 Bootstrap 5 框架构建。可以在所有主要的Web浏览器、桌面和所有智能手机设备上运行，提供浅色/深色两条主题，旨在提供更好的用户视觉体验。
 
-## 安装使用
+### 常用插件列表
+针对一些常用的插件进行设置页和管理页的主题修改。以适配这套后台管理主体
+
+名称 | 简介 | 版本 | 作者 
+---- | ----: | :---: | ----:
+Access | 查看访客记录统计表插件。 | 1.0 | [Kokororin](https://kotori.love)
+ArticleImg | 文章顶部图片插件。 | 1.0.1 | [BangZ](http://bangz.me)
+AutoSlug | 自动生成缩略名。 | 2.1.1 | [ShingChi](http://lcz.me)
+BaiduSubmit | 百度结构化插件。 | 2.1.1 | [老高](http://www.phpgao.com/typecho_plugin_baidusubmit.html)
+RobotsPlus | 蜘蛛来访日志插件，记录蜘蛛爬行的时间及其网址。 | 1.0.0 | [YoviSun](http://www.yovisun.com)
+Sitemap | Google Sitemap 生成器。 | 1.0.0 | [吴松](https://www.bayun.org)
+SkycaijiTye | 文章远程发布接口。 | 1.1.0 | [蓝天采集](https://www.skycaiji.com)
+TePostRatings | 给文章添加一个投票评分功能。 | 0.0.2 | [绛木子](http://lixinahua.com)
+
+### 安装使用
 ---
 - docker 安装（推荐使用方式）
 
